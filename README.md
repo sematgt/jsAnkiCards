@@ -5,6 +5,10 @@
 
 Cards are based on a [LearnJavascript.ru](https://learn.javascript.ru/) materials.
 
+## Import
+
+![how to import]('./import.png')
+
 ## Links 
 
 - [**Anki Desktop Download**](https://apps.ankiweb.net/#download)
