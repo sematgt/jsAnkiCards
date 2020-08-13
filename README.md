@@ -9,6 +9,11 @@ Cards are based on a [LearnJavascript.ru](https://learn.javascript.ru/) material
 
 ![how to import]('./import.png')
 
+## Section order
+
+1. JS Basics
+2. JS Browser
+
 ## Links 
 
 - [**Anki Desktop Download**](https://apps.ankiweb.net/#download)
