@@ -7,7 +7,7 @@ Cards are based on a [LearnJavascript.ru](https://learn.javascript.ru/) material
 
 ## Import
 
-![how to import]('./import.png')
+![how to import](./import.png)
 
 ## Section order
 
