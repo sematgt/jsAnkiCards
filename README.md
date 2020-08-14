@@ -1,5 +1,5 @@
 # jsAnkiCards
-🗃 JavaScript interview preparation flashcards set for Anki on Russian. Anki карточки по JavaScript для подготовки к собеседованиям. 
+🗃 JavaScript interview flashcards set for Anki on Russian. Anki карточки на русском языке для подготовки к собеседованиям по JavaScript. 
 
 > Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 
